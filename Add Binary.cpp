@@ -14,7 +14,7 @@ public:
         
         while (a.length() < b.length()) {a = "0" + a;}
         while (b.length() < a.length()) {b = "0" + b;}
-        // pad zeroes until all 3 numbers have the same number of digits
+        // pad zeroes until both numbers have the same number of digits
         
         int kk = a.length() - 1;
         int carry = 0;
