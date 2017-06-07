@@ -6,6 +6,8 @@ Example2: x = -123, return -321
 Note:
 The input is assumed to be a 32-bit signed integer. Your function should return 0 when the reversed integer overflows. */
 
+// Solution by James R. Vaughan, LeetCode ID = "JeetCode"
+
 class Solution {
 public:
     int reverse(int x) {

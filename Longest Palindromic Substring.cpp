@@ -13,6 +13,8 @@ Input: "cbbd"
 
 Output: "bb" */
 
+// Solution by James R. Vaughan, LeetCode ID = "JeetCode"
+
 class Solution {
 public:
     string longestPalindrome(string s) {

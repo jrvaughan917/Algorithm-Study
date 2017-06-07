@@ -13,6 +13,9 @@ Output: 7 -> 0 -> 8 */
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+ 
+// Solution by James R. Vaughan, LeetCode ID = "JeetCode"
+ 
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
